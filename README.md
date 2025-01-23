@@ -1,16 +1,13 @@
-## Hi there 👋
+##👋 Hi, I'm Naufal
+I'm a data practitioner and Machine Learning enthusiast focused on creating impactful solutions. I enjoy exploring the intersection of data, technology, and creativity to solve complex problems with innovative approaches.
 
-<!--
-**NauffalEl/NauffalEl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Tech Stack
+🐍 Python (TensorFlow, Keras, Pandas)
+📊 Machine Learning/Deep Learning (CNN, Scikit-learn, TensorFlow)
+🗄️ Databases (MySQL)
+🎨 Graphic Design (UI/UX, Poster Design, Feed Instagram)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##ML Projects
+Here are a few projects I'm working on:
+    ExerciseFood: Mobile app to recommend personalized diet and exercise plans.
+    PolaFit: Diet and exercise planner using CNN for food detection.
